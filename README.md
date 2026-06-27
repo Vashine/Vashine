@@ -5,7 +5,7 @@
 ###  Tech Stack:
 - python
 - SQL
-- pandas
+- C#
 
 ###  Featured Projects:
 1. **Github profile Generator**
@@ -19,10 +19,3 @@
 ###  Fun Fact:
 I love solving problems with Python and SQL!
 
----
- From [Vashine](https://github.com/Vashine)
-
-==================================================
-
- Copy the above content and paste it in a new file called README.md
-r Create that file in your main GitHub profile repo to show it on your profile!
